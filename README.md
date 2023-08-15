@@ -5,9 +5,9 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yuktnk&row=2&column=8&theme=onedark"/>
   <img src="https://github-contributions-api.deno.dev/yuktnk.svg?no-total=true&no-legend=true"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuktnk"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuktnk"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuktnk"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuktnk"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuktnk&utcOffset=9"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuktnk&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuktnk&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuktnk&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuktnk&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuktnk&theme=github_dark&utcOffset=9"/>
 </div>
